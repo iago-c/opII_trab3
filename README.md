@@ -1,6 +1,6 @@
 # trab3_opii_iagocosta
 
-Trabalho 3 de op2
+Trabalho 3 de op2, lista de empréstimos
 
 ## Getting Started
 
